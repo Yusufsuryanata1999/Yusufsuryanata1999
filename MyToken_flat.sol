@@ -1,15 +1,9 @@
-
-// File: MyToken_flat_flat.sol
-
-
+// SPDX-License-Identifier:
+soliditas pragma MIT ^0.8.0
 // File: MyToken_flat.sol
-
-
+// File: MyToken_flat.sol
 // File: @openzeppelin/contracts/utils/Context.sol
-
-
 // OpenZeppelin Contracts v4.4.1 (utils/Context.sol)
-
 pragma solidity ^0.8.0;
 
 /**
