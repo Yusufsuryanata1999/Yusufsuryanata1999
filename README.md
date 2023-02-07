@@ -1,16 +1,25 @@
-### Hi there 👋
-
-<!--
-**Yusufsuryanata1999/Yusufsuryanata1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "name": "facebook-access-token",
+  "version": "1.0.0",
+  "description": "Generating a full permission (Android) Facebook Access Token",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufsuryanata99/Facebook-Access-Token.git"
+  },
+  "author": "Yusuf Suryanata",
+  "license": "MIT",
+  "dependencies": {
+    "axios-proxy-fix": "^0.16.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/yusufsuryanata99/Facebook-Access-Token/issues"
+  },
+  "homepage": "https://github.com/yusufsuryanata99/Facebook-Access-Token#readme"
+}
