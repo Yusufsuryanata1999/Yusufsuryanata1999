@@ -69,3 +69,4 @@ jobs:
          uses: github/codeql-action/upload-Yusufsuryanata1999@v2
          with:
           sarif_file: ./apisec-results.Yusufsuryanata1999
+[![APIsec](https://github.com/Yusufsuryanata1999/Yusufsuryanata1999/actions/workflows/apisec-scan.yml/badge.svg?branch=Yusufsuryanata1999-patch-1&event=workflow_run)](https://github.com/Yusufsuryanata1999/Yusufsuryanata1999/actions/workflows/apisec-scan.yml)
